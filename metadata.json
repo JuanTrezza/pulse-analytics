@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Dashboard",
+  "description": "Un panel de analíticas premium con gestión de ventas, pedidos, productos y clientes en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
